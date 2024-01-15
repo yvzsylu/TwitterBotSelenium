@@ -10,7 +10,7 @@ chromedriver.install()
 wd = webdriver.Chrome()
 
 
-url = "https://twitter.com/TTAgrup" #url you want to like
+url = "https://somewhere.com/"      #url you want to like
 like_number = 10                    #the number of posts you want to like in the url
 username = "username"               #your username here
 password = "password"               #your password here
